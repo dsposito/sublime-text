@@ -22,7 +22,7 @@ Open your user preferences via cmd+, (OS X) or ctrl+, (Windows).
 
 ```javascript
 {
-  "draw_white_space": "all",
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_size": 14.0,
