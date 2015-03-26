@@ -15,6 +15,7 @@ You can now search for and install the packages you want.  Here are my favorites
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [PHP Syntax Checker](https://github.com/naomichi-y/php_syntax_checker)
+* [Sublime-GitHub](https://github.com/bgreenlee/sublime-github)
 
 ## Package Preferences
 
@@ -34,7 +35,7 @@ Many packages allow you to customize their settings.  Your user Package Preferen
 
 ## User Preferences
 
-Open your user preferences via cmd+, (OS X) or ctrl+, (Windows).
+Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 
 ```javascript
 {
@@ -51,4 +52,12 @@ Open your user preferences via cmd+, (OS X) or ctrl+, (Windows).
 	"theme": "Soda Dark.sublime-theme",
 	"trim_automatic_white_space": false
 }
+```
+
+### User Key Bindings
+```javascript
+[
+    // For Sublime-GitHub package.
+    { "keys": ["super+shift+g"], "command": "copy_remote_url" }
+]
 ```
