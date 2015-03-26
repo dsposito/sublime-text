@@ -15,12 +15,13 @@ You can now search for and install the packages you want.  Here are my favorites
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [PHP Syntax Checker](https://github.com/naomichi-y/php_syntax_checker)
-* [Sublime-GitHub](https://github.com/bgreenlee/sublime-github)
+* [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) (requires a [GitHub Auth Token](https://github.com/settings/applications) configuration - see below)
 
 ## Package Preferences
 
-Many packages allow you to customize their settings.  Your user Package Preferences can be found by selecting "Settings - User" under any installed package via: 
-```Sublime Text -> Preferences -> Package Settings```
+Many packages allow you to customize their settings.  Your user Package Preferences can be found by selecting "Settings - User" under any installed package via:
+
+```Preferences -> Package Settings```
 
 ```javascript
 {
@@ -61,3 +62,17 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
     { "keys": ["super+shift+g"], "command": "copy_remote_url" }
 ]
 ```
+
+### Sublime-GitHub Package Preferences
+
+The [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) package requires a [GitHub Auth Token](https://github.com/settings/applications) to be configured. This can be done within:
+
+```Preferences -> Package Settings -> GitHub -> Settings - User```
+
+```javascript
+{
+    "github_token": "YOUR-TOKEN-HERE"
+}
+```
+
+After configuring the auth token, restart Sublime Text.
