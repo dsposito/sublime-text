@@ -55,7 +55,7 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 }
 ```
 
-### User Key Bindings
+## User Key Bindings
 ```javascript
 [
     // For Sublime-GitHub package.
@@ -63,7 +63,7 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 ]
 ```
 
-### Sublime-GitHub Package Preferences
+## Sublime-GitHub Package Preferences
 
 The [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) package requires a [GitHub Auth Token](https://github.com/settings/applications) to be configured. This can be done within:
 
