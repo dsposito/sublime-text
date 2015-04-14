@@ -1,6 +1,6 @@
 # Sublime Text Setup
 
-My personal setup of [Sublime Text](http://www.sublimetext.com) packages and preferences.
+My personal setup of [Sublime Text 3](http://www.sublimetext.com/3) packages and preferences.
 
 ## Packages
 
@@ -40,18 +40,20 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 
 ```javascript
 {
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"find_selected_text": true,
-	"font_size": 14.0,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages": ["Vintage"],
-	"rulers": [100],
-	"show_full_path": true,
-	"spell_check": true,
-	"theme": "Soda Dark.sublime-theme",
-	"trim_automatic_white_space": false
+    "draw_white_space": "all",
+    "enable_tab_scrolling": false,
+    "ensure_newline_at_eof_on_save": true,
+    "find_selected_text": true,
+    "font_size": 13.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages": ["Vintage"],
+    "rulers": [100],
+    "show_full_path": true,
+    "show_line_endings": true,
+    "spell_check": true,
+    "theme": "Soda Dark.sublime-theme",
+    "trim_automatic_white_space": false
 }
 ```
 
