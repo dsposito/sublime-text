@@ -58,10 +58,28 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 ```
 
 ## User Key Bindings
+
 ```javascript
 [
     // For Sublime-GitHub package.
     { "keys": ["super+shift+g"], "command": "copy_remote_url" }
+]
+```
+
+## User Mouse Bindings
+
+Sublime Text 3 supports a new "Goto Definition" feature. By default, this is available via the top Tools menu or right-click context menu. For easier use, you can [configure](http://stackoverflow.com/a/17046826) a key+mouse binding (e.g., cmd+shift+click) by creating the following file:
+
+`~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap`:
+```javascript
+[
+    {
+        "button": "button1",
+        "count": 1,
+        "modifiers": ["super", "shift"],
+        "press_command": "drag_select",
+        "command": "goto_definition"
+    }
 ]
 ```
 
