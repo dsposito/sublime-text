@@ -15,6 +15,7 @@ You can now search for and install the packages you want.  Here are my favorites
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [PHP Syntax Checker](https://github.com/naomichi-y/php_syntax_checker)
+* [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) (requires a [GitHub Auth Token](https://github.com/settings/applications) configuration - see below)
 
 ## Package Preferences
