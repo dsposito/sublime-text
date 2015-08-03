@@ -54,7 +54,7 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
     "show_line_endings": true,
     "spell_check": true,
     "theme": "Soda Dark.sublime-theme",
-    "trim_automatic_white_space": false
+    "trim_trailing_white_space_on_save": true
 }
 ```
 
