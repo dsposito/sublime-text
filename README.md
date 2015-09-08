@@ -63,7 +63,8 @@ Open your user preferences via `cmd+,` (OS X) or `ctrl+,` (Windows).
 ```javascript
 [
     // For Sublime-GitHub package.
-    { "keys": ["super+shift+g"], "command": "copy_remote_url" }
+    { "keys": ["super+shift+g"], "command": "copy_remote_url" },
+    { "keys": ["super+v"], "command": "paste_and_indent" }
 ]
 ```
 
