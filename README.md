@@ -31,7 +31,8 @@ Many packages allow you to customize their settings.  Your user Package Preferen
 	"jsdocs_return_description"      : false,
 	"jsdocs_per_section_indent"      : true,
 	"jsdocs_lower_case_primitives"   : true,
-	"jsdocs_extend_double_slash"     : false
+	"jsdocs_extend_double_slash"     : false,
+	"jsdocs_short_primitives"        : true
 }
 ```
 
