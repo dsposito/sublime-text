@@ -10,13 +10,14 @@ Next, open the [Command Pallete](https://sublime.wbond.net/docs/usage) via cmd+s
 
 You can now search for and install the packages you want.  Here are my favorites:
 
-* [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 * [Alignment](https://github.com/wbond/sublime_alignment)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
-* [PHP Syntax Checker](https://github.com/naomichi-y/php_syntax_checker)
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) (requires a [GitHub Auth Token](https://github.com/settings/applications) configuration - see below)
+* [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 
 ## Package Preferences
 
