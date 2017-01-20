@@ -14,6 +14,7 @@ You can now search for and install the packages you want.  Here are my favorites
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+* [PHPUnit Completions](https://github.com/gerardroche/sublime-phpunit-completions)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Sublime-GitHub](https://github.com/bgreenlee/sublime-github) (requires a [GitHub Auth Token](https://github.com/settings/applications) configuration - see below)
