@@ -10,6 +10,7 @@ Next, open the [Command Pallete](https://sublime.wbond.net/docs/usage) via cmd+s
 
 You can now search for and install the packages you want.  Here are my favorites:
 
+* [A File Icon](https://github.com/ihodev/a-file-icon)
 * [Alignment](https://github.com/wbond/sublime_alignment)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
